@@ -1,3 +1,3 @@
 README
 
-<a href="./contents/bible/index.md">Link</a>
+[read bible](./contents/bible/index.md)
