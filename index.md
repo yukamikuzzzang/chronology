@@ -1,3 +1,3 @@
 README
 
-[read bible](./chronology/contents/index.md)
+[read bible](./contents/index.md)
